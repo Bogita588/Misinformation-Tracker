@@ -1,0 +1,55 @@
+.impactCard {
+  background-color: var(--card-bg);
+  padding: 1.5rem;
+  border-radius: 10px;
+  box-shadow: 0 4px 10px var(--card-shadow);
+  transition: background-color 0.3s ease, color 0.3s ease;
+  height: 100%;
+  display: flex;
+  flex-direction: column;
+}
+
+.title {
+  font-size: 1.25rem;
+  font-weight: bold;
+  margin-bottom: 1rem;
+  color: var(--text-color);
+}
+
+.list {
+  list-style: none;
+  padding: 0;
+  margin: 0;
+  display: grid;
+  gap: 0.75rem;
+}
+
+.item {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  background-color: var(--card-bg-light);
+  padding: 0.75rem 1rem;
+  border-radius: 8px;
+  box-shadow: 0 2px 6px var(--card-shadow-light);
+}
+
+.platform {
+  font-weight: 600;
+  color: var(--text-color);
+  flex: 1;
+}
+
+.metric {
+  font-size: 0.9rem;
+  color: var(--text-color-secondary);
+  flex: 1;
+  text-align: center;
+}
+
+.score {
+  font-size: 0.9rem;
+  color: var(--accent-color);
+  flex: 1;
+  text-align: right;
+}

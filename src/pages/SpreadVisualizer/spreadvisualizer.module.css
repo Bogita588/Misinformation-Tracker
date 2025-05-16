@@ -1,0 +1,40 @@
+.timeline {
+  display: flex;
+  flex-direction: column;
+  gap: 1rem;
+  background-color: var(--card-bg);
+  padding: 1.5rem;
+  border-radius: 12px;
+  box-shadow: 0 4px 8px var(--card-shadow);
+  transition: background-color 0.3s, color 0.3s;
+  width: 100%;
+}
+
+.event {
+  display: flex;
+  flex-direction: column;
+  border-left: 4px solid var(--accent);
+  padding-left: 1rem;
+  position: relative;
+  background-color: var(--timeline-bg, #f5f5f5);
+  border-radius: 8px;
+  padding: 1rem;
+}
+
+.time {
+  font-size: 0.875rem;
+  color: var(--text-muted);
+  margin-bottom: 0.3rem;
+}
+
+.details {
+  font-size: 1rem;
+  color: var(--text-color);
+  line-height: 1.4;
+}
+
+.details p {
+  margin: 0.25rem 0 0;
+  font-size: 0.95rem;
+  color: var(--text-color);
+}

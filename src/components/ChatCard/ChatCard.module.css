@@ -20,3 +20,19 @@
   border: 2px dashed var(--text-color);
   border-radius: 8px;
 }
+
+/* src/components/ChartCard/ChartCard.module.css */
+.card {
+  background-color: var(--card-bg);
+  color: var(--text);
+  padding: 1rem;
+  border-radius: 12px;
+  box-shadow: var(--shadow);
+  margin-bottom: 1.5rem;
+}
+
+.title {
+  font-size: 1.1rem;
+  font-weight: 600;
+  margin-bottom: 1rem;
+}

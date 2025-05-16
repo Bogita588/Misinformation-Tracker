@@ -127,3 +127,29 @@
   }
 }
  
+.timelineRowGrid {
+  display: grid;
+  grid-template-columns: 1fr 1.8fr; /* Give more space to the right section */
+  gap: 2rem;
+  margin-top: 3rem;
+  align-items: start;
+}
+
+.timelineSection {
+  background-color: var(--card-bg);
+  padding: 1.5rem;
+  border-radius: 12px;
+  box-shadow: 0 4px 12px var(--card-shadow);
+  min-width: 0;
+}
+
+.impactSection {
+  background-color: var(--card-bg);
+  padding: 1.5rem;
+  border-radius: 12px;
+  box-shadow: 0 4px 12px var(--card-shadow);
+  min-width: 0;
+}
+
+
+

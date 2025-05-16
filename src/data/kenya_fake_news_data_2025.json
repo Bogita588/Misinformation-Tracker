@@ -8,7 +8,7 @@
     "category": "economic",
     "fact_checked_by": "PesaCheck",
     "is_ai_generated": false,
-    "detection_score": 94,
+    "detection_score": 95,
     "spread_path": [
       {
         "platform": "Twitter",
@@ -476,7 +476,7 @@
   {
     "id": 20,
     "title": "Disinformation about fuel prices spreads",
-    "source": "BBC",
+    "source": "The Standard",
     "platform": "Twitter",
     "date": "2025-03-24",
     "category": "economic",
@@ -1265,6 +1265,28 @@
     ],
     "content_type": "manipulated"
   },
+  {
+    "id": 50,
+    "title": "AI-generated influencer endorses false ad",
+    "source": "Citizen",
+    "platform": "Telegram",
+    "date": "2025-03-03",
+    "category": "education",
+    "fact_checked_by": "PesaCheck",
+    "is_ai_generated": true,
+    "detection_score": 90,
+    "spread_path": [
+      {
+        "platform": "TikTok",
+        "time": "2025-03-28T13:39:45"
+      },
+      {
+        "platform": "Telegram",
+        "time": "2025-04-08T00:54:57"
+      }
+    ],
+    "content_type": "manipulated"
+  }, 
   {
     "id": 50,
     "title": "AI-generated influencer endorses false ad",

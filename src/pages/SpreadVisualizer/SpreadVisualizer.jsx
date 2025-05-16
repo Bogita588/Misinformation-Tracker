@@ -1,12 +1,32 @@
 import React from 'react';
-import styles from './spreadvisualizer.module.css';
+import data from '../../data/kenya_fake_news_data_2025.json';
+import styles from './SpreadVisualizer.module.css';
 
 export default function SpreadVisualizer() {
+  // Limit to 4 recent items for dashboard
+  const recentPosts = data
+    .flatMap(item =>
+      item.spread_path.map(path => ({
+        title: item.title,
+        platform: path.platform,
+        time: new Date(path.time),
+        source: item.source
+      }))
+    )
+    .sort((a, b) => b.time - a.time)
+    .slice(0, 4); // Show only the 4 most recent
+
   return (
-    <main className={styles.spreadVisualizer}>
-      <h1>Spread Visualizer</h1>
-      <p>Timeline and network graph of misinformation spread.</p>
-      {/* Timeline and network graph components */}
-    </main>
+    <div className={styles.timeline}>
+      {recentPosts.map((post, index) => (
+        <div key={index} className={styles.event}>
+          <div className={styles.time}>{post.time.toLocaleString()}</div>
+          <div className={styles.details}>
+            <strong>{post.platform}</strong> - <em>{post.source}</em>
+            <p>{post.title}</p>
+          </div>
+        </div>
+      ))}
+    </div>
   );
 }
