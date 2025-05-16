@@ -1,0 +1,1290 @@
+[
+  {
+    "id": 1,
+    "title": "Voice clone used to mimic government warning",
+    "source": "Citizen",
+    "platform": "Facebook",
+    "date": "2025-01-18",
+    "category": "economic",
+    "fact_checked_by": "PesaCheck",
+    "is_ai_generated": false,
+    "detection_score": 94,
+    "spread_path": [
+      {
+        "platform": "Twitter",
+        "time": "2025-05-08T06:02:44"
+      },
+      {
+        "platform": "TikTok",
+        "time": "2025-05-08T07:36:37"
+      },
+      {
+        "platform": "Twitter",
+        "time": "2025-05-09T03:17:39"
+      },
+      {
+        "platform": "YouTube",
+        "time": "2025-05-07T21:19:45"
+      }
+    ],
+    "content_type": "misinformation"
+  },
+  {
+    "id": 2,
+    "title": "Fake news spreads about Kenyan elections",
+    "source": "KBC",
+    "platform": "TikTok",
+    "date": "2025-04-01",
+    "category": "education",
+    "fact_checked_by": "Standard Media",
+    "is_ai_generated": false,
+    "detection_score": 98,
+    "spread_path": [
+      {
+        "platform": "Telegram",
+        "time": "2025-05-09T11:14:52"
+      },
+      {
+        "platform": "Facebook",
+        "time": "2025-04-28T14:41:40"
+      }
+    ],
+    "content_type": "misinformation"
+  },
+  {
+    "id": 3,
+    "title": "Manipulated image targets local politician",
+    "source": "Nation",
+    "platform": "YouTube",
+    "date": "2025-04-19",
+    "category": "security",
+    "fact_checked_by": "Standard Media",
+    "is_ai_generated": false,
+    "detection_score": 77,
+    "spread_path": [
+      {
+        "platform": "Telegram",
+        "time": "2025-04-18T17:33:32"
+      },
+      {
+        "platform": "Twitter",
+        "time": "2025-04-16T07:53:33"
+      }
+    ],
+    "content_type": "misinformation"
+  },
+  {
+    "id": 4,
+    "title": "Fabricated quote attributed to top judge",
+    "source": "Citizen",
+    "platform": "Telegram",
+    "date": "2025-04-08",
+    "category": "political",
+    "fact_checked_by": "Standard Media",
+    "is_ai_generated": false,
+    "detection_score": 81,
+    "spread_path": [
+      {
+        "platform": "TikTok",
+        "time": "2025-04-20T06:17:11"
+      },
+      {
+        "platform": "Facebook",
+        "time": "2025-04-10T15:11:45"
+      }
+    ],
+    "content_type": "misinformation"
+  },
+  {
+    "id": 5,
+    "title": "False info about school closures shared",
+    "source": "Citizen",
+    "platform": "Telegram",
+    "date": "2025-03-14",
+    "category": "education",
+    "fact_checked_by": "Standard Media",
+    "is_ai_generated": false,
+    "detection_score": 97,
+    "spread_path": [
+      {
+        "platform": "Telegram",
+        "time": "2025-04-18T02:24:10"
+      },
+      {
+        "platform": "WhatsApp",
+        "time": "2025-04-30T16:11:18"
+      },
+      {
+        "platform": "WhatsApp",
+        "time": "2025-04-12T23:30:58"
+      }
+    ],
+    "content_type": "misinformation"
+  },
+  {
+    "id": 6,
+    "title": "AI-generated influencer endorses false ad",
+    "source": "Citizen",
+    "platform": "Twitter",
+    "date": "2025-01-13",
+    "category": "economic",
+    "fact_checked_by": "PesaCheck",
+    "is_ai_generated": false,
+    "detection_score": 63,
+    "spread_path": [
+      {
+        "platform": "Telegram",
+        "time": "2025-04-19T12:37:18"
+      },
+      {
+        "platform": "TikTok",
+        "time": "2025-05-07T08:14:00"
+      },
+      {
+        "platform": "Twitter",
+        "time": "2025-05-06T14:06:32"
+      },
+      {
+        "platform": "YouTube",
+        "time": "2025-05-09T12:48:14"
+      }
+    ],
+    "content_type": "misinformation"
+  },
+  {
+    "id": 7,
+    "title": "Fake article claims foreign interference",
+    "source": "Citizen",
+    "platform": "YouTube",
+    "date": "2025-01-16",
+    "category": "economic",
+    "fact_checked_by": "Africa Check",
+    "is_ai_generated": false,
+    "detection_score": 66,
+    "spread_path": [
+      {
+        "platform": "Telegram",
+        "time": "2025-03-07T05:26:19"
+      },
+      {
+        "platform": "Facebook",
+        "time": "2025-02-13T06:02:58"
+      },
+      {
+        "platform": "YouTube",
+        "time": "2025-01-27T16:07:33"
+      },
+      {
+        "platform": "YouTube",
+        "time": "2025-03-10T00:11:51"
+      }
+    ],
+    "content_type": "misinformation"
+  },
+  {
+    "id": 8,
+    "title": "Disinformation about fuel prices spreads",
+    "source": "The Star",
+    "platform": "WhatsApp",
+    "date": "2025-04-21",
+    "category": "education",
+    "fact_checked_by": "Africa Check",
+    "is_ai_generated": false,
+    "detection_score": 92,
+    "spread_path": [
+      {
+        "platform": "WhatsApp",
+        "time": "2025-03-21T05:44:30"
+      },
+      {
+        "platform": "TikTok",
+        "time": "2025-03-21T20:07:39"
+      },
+      {
+        "platform": "Telegram",
+        "time": "2025-03-29T20:34:55"
+      }
+    ],
+    "content_type": "misinformation"
+  },
+  {
+    "id": 9,
+    "title": "False info about school closures shared",
+    "source": "KBC",
+    "platform": "YouTube",
+    "date": "2025-01-28",
+    "category": "security",
+    "fact_checked_by": "PesaCheck",
+    "is_ai_generated": false,
+    "detection_score": 85,
+    "spread_path": [
+      {
+        "platform": "YouTube",
+        "time": "2025-05-07T03:54:13"
+      },
+      {
+        "platform": "TikTok",
+        "time": "2025-04-15T06:49:26"
+      }
+    ],
+    "content_type": "misinformation"
+  },
+  {
+    "id": 10,
+    "title": "False vaccine claims circulate on WhatsApp",
+    "source": "The Star",
+    "platform": "Telegram",
+    "date": "2025-01-24",
+    "category": "health",
+    "fact_checked_by": "Africa Check",
+    "is_ai_generated": false,
+    "detection_score": 71,
+    "spread_path": [
+      {
+        "platform": "Facebook",
+        "time": "2025-03-27T20:13:50"
+      },
+      {
+        "platform": "Facebook",
+        "time": "2025-03-18T11:22:32"
+      },
+      {
+        "platform": "Twitter",
+        "time": "2025-04-05T09:26:12"
+      }
+    ],
+    "content_type": "misinformation"
+  },
+  {
+    "id": 11,
+    "title": "Manipulated image targets local politician",
+    "source": "Nation",
+    "platform": "TikTok",
+    "date": "2025-01-13",
+    "category": "political",
+    "fact_checked_by": "Africa Check",
+    "is_ai_generated": false,
+    "detection_score": 63,
+    "spread_path": [
+      {
+        "platform": "Telegram",
+        "time": "2025-04-27T11:33:51"
+      },
+      {
+        "platform": "TikTok",
+        "time": "2025-04-21T04:36:00"
+      }
+    ],
+    "content_type": "misinformation"
+  },
+  {
+    "id": 12,
+    "title": "Misleading crowd photo misused for protest",
+    "source": "Nation",
+    "platform": "YouTube",
+    "date": "2025-03-28",
+    "category": "security",
+    "fact_checked_by": "Standard Media",
+    "is_ai_generated": false,
+    "detection_score": 96,
+    "spread_path": [
+      {
+        "platform": "Twitter",
+        "time": "2025-05-09T15:57:49"
+      },
+      {
+        "platform": "Twitter",
+        "time": "2025-04-21T16:18:27"
+      }
+    ],
+    "content_type": "misinformation"
+  },
+  {
+    "id": 13,
+    "title": "Fake news spreads about Kenyan elections",
+    "source": "BBC",
+    "platform": "Facebook",
+    "date": "2025-01-19",
+    "category": "economic",
+    "fact_checked_by": "Standard Media",
+    "is_ai_generated": false,
+    "detection_score": 84,
+    "spread_path": [
+      {
+        "platform": "Twitter",
+        "time": "2025-04-29T14:30:39"
+      },
+      {
+        "platform": "Twitter",
+        "time": "2025-04-07T08:04:34"
+      }
+    ],
+    "content_type": "misinformation"
+  },
+  {
+    "id": 14,
+    "title": "Manipulated image targets local politician",
+    "source": "The Star",
+    "platform": "WhatsApp",
+    "date": "2025-04-15",
+    "category": "security",
+    "fact_checked_by": "Africa Check",
+    "is_ai_generated": false,
+    "detection_score": 81,
+    "spread_path": [
+      {
+        "platform": "YouTube",
+        "time": "2025-04-25T01:37:59"
+      },
+      {
+        "platform": "Facebook",
+        "time": "2025-04-29T10:11:42"
+      },
+      {
+        "platform": "Telegram",
+        "time": "2025-05-07T03:24:42"
+      }
+    ],
+    "content_type": "misinformation"
+  },
+  {
+    "id": 15,
+    "title": "Manipulated image targets local politician",
+    "source": "The Star",
+    "platform": "TikTok",
+    "date": "2025-02-25",
+    "category": "health",
+    "fact_checked_by": "Africa Check",
+    "is_ai_generated": false,
+    "detection_score": 95,
+    "spread_path": [
+      {
+        "platform": "Facebook",
+        "time": "2025-03-29T20:05:09"
+      },
+      {
+        "platform": "Twitter",
+        "time": "2025-02-08T06:35:07"
+      }
+    ],
+    "content_type": "misinformation"
+  },
+  {
+    "id": 16,
+    "title": "Edited document spreads false economic data",
+    "source": "Citizen",
+    "platform": "Facebook",
+    "date": "2025-01-13",
+    "category": "health",
+    "fact_checked_by": "Standard Media",
+    "is_ai_generated": false,
+    "detection_score": 96,
+    "spread_path": [
+      {
+        "platform": "TikTok",
+        "time": "2025-05-05T19:11:23"
+      },
+      {
+        "platform": "TikTok",
+        "time": "2025-05-05T00:11:49"
+      }
+    ],
+    "content_type": "disinformation"
+  },
+  {
+    "id": 17,
+    "title": "Voice clone used to mimic government warning",
+    "source": "The Star",
+    "platform": "Telegram",
+    "date": "2025-05-07",
+    "category": "security",
+    "fact_checked_by": "Citizen Digital",
+    "is_ai_generated": false,
+    "detection_score": 99,
+    "spread_path": [
+      {
+        "platform": "Facebook",
+        "time": "2025-03-28T11:57:29"
+      },
+      {
+        "platform": "Telegram",
+        "time": "2025-03-14T04:06:35"
+      }
+    ],
+    "content_type": "disinformation"
+  },
+  {
+    "id": 18,
+    "title": "Fabricated quote attributed to top judge",
+    "source": "KBC",
+    "platform": "YouTube",
+    "date": "2025-05-06",
+    "category": "economic",
+    "fact_checked_by": "PesaCheck",
+    "is_ai_generated": false,
+    "detection_score": 69,
+    "spread_path": [
+      {
+        "platform": "YouTube",
+        "time": "2025-04-12T19:47:50"
+      },
+      {
+        "platform": "WhatsApp",
+        "time": "2025-02-04T09:44:51"
+      },
+      {
+        "platform": "YouTube",
+        "time": "2025-03-08T00:39:01"
+      },
+      {
+        "platform": "Telegram",
+        "time": "2025-03-14T05:31:45"
+      }
+    ],
+    "content_type": "disinformation"
+  },
+  {
+    "id": 19,
+    "title": "False info about school closures shared",
+    "source": "BBC",
+    "platform": "Twitter",
+    "date": "2025-03-08",
+    "category": "economic",
+    "fact_checked_by": "Citizen Digital",
+    "is_ai_generated": false,
+    "detection_score": 63,
+    "spread_path": [
+      {
+        "platform": "Twitter",
+        "time": "2025-04-27T12:20:30"
+      },
+      {
+        "platform": "Telegram",
+        "time": "2025-04-19T01:43:56"
+      },
+      {
+        "platform": "WhatsApp",
+        "time": "2025-04-13T02:29:50"
+      },
+      {
+        "platform": "TikTok",
+        "time": "2025-04-27T20:47:48"
+      }
+    ],
+    "content_type": "disinformation"
+  },
+  {
+    "id": 20,
+    "title": "Disinformation about fuel prices spreads",
+    "source": "BBC",
+    "platform": "Twitter",
+    "date": "2025-03-24",
+    "category": "economic",
+    "fact_checked_by": "Africa Check",
+    "is_ai_generated": false,
+    "detection_score": 94,
+    "spread_path": [
+      {
+        "platform": "Facebook",
+        "time": "2025-04-30T20:59:26"
+      },
+      {
+        "platform": "TikTok",
+        "time": "2025-04-05T14:46:44"
+      },
+      {
+        "platform": "Telegram",
+        "time": "2025-04-29T13:22:20"
+      },
+      {
+        "platform": "Facebook",
+        "time": "2025-04-08T06:21:27"
+      }
+    ],
+    "content_type": "disinformation"
+  },
+  {
+    "id": 21,
+    "title": "Disinformation about fuel prices spreads",
+    "source": "Nation",
+    "platform": "TikTok",
+    "date": "2025-04-23",
+    "category": "economic",
+    "fact_checked_by": "Citizen Digital",
+    "is_ai_generated": false,
+    "detection_score": 77,
+    "spread_path": [
+      {
+        "platform": "Twitter",
+        "time": "2025-04-23T18:08:09"
+      },
+      {
+        "platform": "Telegram",
+        "time": "2025-04-26T03:25:52"
+      }
+    ],
+    "content_type": "disinformation"
+  },
+  {
+    "id": 22,
+    "title": "Manipulated image targets local politician",
+    "source": "Citizen",
+    "platform": "Facebook",
+    "date": "2025-01-27",
+    "category": "security",
+    "fact_checked_by": "Citizen Digital",
+    "is_ai_generated": false,
+    "detection_score": 62,
+    "spread_path": [
+      {
+        "platform": "Facebook",
+        "time": "2025-03-16T01:05:09"
+      },
+      {
+        "platform": "Telegram",
+        "time": "2025-04-20T17:41:21"
+      },
+      {
+        "platform": "Twitter",
+        "time": "2025-02-21T10:42:26"
+      }
+    ],
+    "content_type": "disinformation"
+  },
+  {
+    "id": 23,
+    "title": "Clickbait on Ruto\u2019s speech misleads citizens",
+    "source": "BBC",
+    "platform": "YouTube",
+    "date": "2025-02-10",
+    "category": "economic",
+    "fact_checked_by": "Citizen Digital",
+    "is_ai_generated": false,
+    "detection_score": 69,
+    "spread_path": [
+      {
+        "platform": "WhatsApp",
+        "time": "2025-04-11T06:16:02"
+      },
+      {
+        "platform": "TikTok",
+        "time": "2025-05-03T21:31:08"
+      },
+      {
+        "platform": "Telegram",
+        "time": "2025-04-24T09:50:23"
+      }
+    ],
+    "content_type": "disinformation"
+  },
+  {
+    "id": 24,
+    "title": "Voice clone used to mimic government warning",
+    "source": "Citizen",
+    "platform": "YouTube",
+    "date": "2025-04-23",
+    "category": "health",
+    "fact_checked_by": "Africa Check",
+    "is_ai_generated": false,
+    "detection_score": 62,
+    "spread_path": [
+      {
+        "platform": "Twitter",
+        "time": "2025-05-07T17:38:43"
+      },
+      {
+        "platform": "Telegram",
+        "time": "2025-04-27T08:01:02"
+      }
+    ],
+    "content_type": "disinformation"
+  },
+  {
+    "id": 25,
+    "title": "Fake article claims foreign interference",
+    "source": "KBC",
+    "platform": "WhatsApp",
+    "date": "2025-01-15",
+    "category": "economic",
+    "fact_checked_by": "PesaCheck",
+    "is_ai_generated": false,
+    "detection_score": 84,
+    "spread_path": [
+      {
+        "platform": "WhatsApp",
+        "time": "2025-04-24T16:23:15"
+      },
+      {
+        "platform": "Telegram",
+        "time": "2025-05-06T14:34:12"
+      },
+      {
+        "platform": "Twitter",
+        "time": "2025-04-28T03:26:47"
+      },
+      {
+        "platform": "Facebook",
+        "time": "2025-03-27T08:06:35"
+      }
+    ],
+    "content_type": "disinformation"
+  },
+  {
+    "id": 26,
+    "title": "Manipulated image targets local politician",
+    "source": "BBC",
+    "platform": "YouTube",
+    "date": "2025-04-03",
+    "category": "economic",
+    "fact_checked_by": "Africa Check",
+    "is_ai_generated": false,
+    "detection_score": 94,
+    "spread_path": [
+      {
+        "platform": "Telegram",
+        "time": "2025-03-24T21:49:51"
+      },
+      {
+        "platform": "YouTube",
+        "time": "2025-04-11T23:23:29"
+      },
+      {
+        "platform": "Facebook",
+        "time": "2025-04-01T23:29:01"
+      },
+      {
+        "platform": "WhatsApp",
+        "time": "2025-04-30T12:10:50"
+      }
+    ],
+    "content_type": "disinformation"
+  },
+  {
+    "id": 27,
+    "title": "Misleading crowd photo misused for protest",
+    "source": "The Star",
+    "platform": "YouTube",
+    "date": "2025-04-01",
+    "category": "health",
+    "fact_checked_by": "Citizen Digital",
+    "is_ai_generated": false,
+    "detection_score": 70,
+    "spread_path": [
+      {
+        "platform": "Twitter",
+        "time": "2025-04-20T21:53:55"
+      },
+      {
+        "platform": "Facebook",
+        "time": "2025-03-02T00:37:29"
+      },
+      {
+        "platform": "WhatsApp",
+        "time": "2025-04-16T02:06:12"
+      }
+    ],
+    "content_type": "disinformation"
+  },
+  {
+    "id": 28,
+    "title": "Fabricated quote attributed to top judge",
+    "source": "The Star",
+    "platform": "Facebook",
+    "date": "2025-04-15",
+    "category": "political",
+    "fact_checked_by": "PesaCheck",
+    "is_ai_generated": false,
+    "detection_score": 80,
+    "spread_path": [
+      {
+        "platform": "Twitter",
+        "time": "2025-04-02T08:31:02"
+      },
+      {
+        "platform": "Twitter",
+        "time": "2025-01-30T19:57:52"
+      },
+      {
+        "platform": "YouTube",
+        "time": "2025-04-16T13:08:36"
+      }
+    ],
+    "content_type": "disinformation"
+  },
+  {
+    "id": 29,
+    "title": "Edited document spreads false economic data",
+    "source": "The Star",
+    "platform": "WhatsApp",
+    "date": "2025-01-16",
+    "category": "political",
+    "fact_checked_by": "PesaCheck",
+    "is_ai_generated": false,
+    "detection_score": 66,
+    "spread_path": [
+      {
+        "platform": "TikTok",
+        "time": "2025-03-29T07:01:49"
+      },
+      {
+        "platform": "Twitter",
+        "time": "2025-05-07T08:20:32"
+      },
+      {
+        "platform": "YouTube",
+        "time": "2025-04-06T06:24:56"
+      },
+      {
+        "platform": "Twitter",
+        "time": "2025-04-30T01:56:16"
+      }
+    ],
+    "content_type": "disinformation"
+  },
+  {
+    "id": 30,
+    "title": "Voice clone used to mimic government warning",
+    "source": "Citizen",
+    "platform": "WhatsApp",
+    "date": "2025-03-19",
+    "category": "political",
+    "fact_checked_by": "Standard Media",
+    "is_ai_generated": false,
+    "detection_score": 94,
+    "spread_path": [
+      {
+        "platform": "Twitter",
+        "time": "2025-01-28T23:38:34"
+      },
+      {
+        "platform": "YouTube",
+        "time": "2025-05-01T11:31:58"
+      }
+    ],
+    "content_type": "disinformation"
+  },
+  {
+    "id": 31,
+    "title": "Voice clone used to mimic government warning",
+    "source": "Nation",
+    "platform": "YouTube",
+    "date": "2025-01-26",
+    "category": "political",
+    "fact_checked_by": "Citizen Digital",
+    "is_ai_generated": true,
+    "detection_score": 93,
+    "spread_path": [
+      {
+        "platform": "WhatsApp",
+        "time": "2025-03-14T15:04:13"
+      },
+      {
+        "platform": "TikTok",
+        "time": "2025-05-02T05:22:07"
+      },
+      {
+        "platform": "WhatsApp",
+        "time": "2025-04-16T09:23:37"
+      }
+    ],
+    "content_type": "ai_generated"
+  },
+  {
+    "id": 32,
+    "title": "Fake article claims foreign interference",
+    "source": "KBC",
+    "platform": "TikTok",
+    "date": "2025-05-09",
+    "category": "economic",
+    "fact_checked_by": "Standard Media",
+    "is_ai_generated": true,
+    "detection_score": 62,
+    "spread_path": [
+      {
+        "platform": "Telegram",
+        "time": "2025-05-07T06:05:44"
+      },
+      {
+        "platform": "TikTok",
+        "time": "2025-05-07T15:16:52"
+      }
+    ],
+    "content_type": "ai_generated"
+  },
+  {
+    "id": 33,
+    "title": "Fake news spreads about Kenyan elections",
+    "source": "KBC",
+    "platform": "Facebook",
+    "date": "2025-02-22",
+    "category": "political",
+    "fact_checked_by": "Standard Media",
+    "is_ai_generated": true,
+    "detection_score": 90,
+    "spread_path": [
+      {
+        "platform": "YouTube",
+        "time": "2025-04-01T17:21:08"
+      },
+      {
+        "platform": "TikTok",
+        "time": "2025-04-26T14:56:46"
+      },
+      {
+        "platform": "Telegram",
+        "time": "2025-04-14T10:04:26"
+      }
+    ],
+    "content_type": "ai_generated"
+  },
+  {
+    "id": 34,
+    "title": "Manipulated image targets local politician",
+    "source": "Nation",
+    "platform": "Telegram",
+    "date": "2025-01-26",
+    "category": "security",
+    "fact_checked_by": "Citizen Digital",
+    "is_ai_generated": true,
+    "detection_score": 82,
+    "spread_path": [
+      {
+        "platform": "TikTok",
+        "time": "2025-02-10T00:41:41"
+      },
+      {
+        "platform": "Facebook",
+        "time": "2025-03-21T16:16:03"
+      },
+      {
+        "platform": "YouTube",
+        "time": "2025-02-17T02:24:11"
+      },
+      {
+        "platform": "Telegram",
+        "time": "2025-04-19T12:46:37"
+      }
+    ],
+    "content_type": "ai_generated"
+  },
+  {
+    "id": 35,
+    "title": "Clickbait on Ruto\u2019s speech misleads citizens",
+    "source": "Citizen",
+    "platform": "Facebook",
+    "date": "2025-04-04",
+    "category": "economic",
+    "fact_checked_by": "PesaCheck",
+    "is_ai_generated": true,
+    "detection_score": 82,
+    "spread_path": [
+      {
+        "platform": "TikTok",
+        "time": "2025-04-06T08:19:05"
+      },
+      {
+        "platform": "TikTok",
+        "time": "2025-04-27T02:02:11"
+      }
+    ],
+    "content_type": "ai_generated"
+  },
+  {
+    "id": 36,
+    "title": "False info about school closures shared",
+    "source": "Nation",
+    "platform": "YouTube",
+    "date": "2025-05-09",
+    "category": "health",
+    "fact_checked_by": "PesaCheck",
+    "is_ai_generated": true,
+    "detection_score": 60,
+    "spread_path": [
+      {
+        "platform": "YouTube",
+        "time": "2025-04-12T20:34:52"
+      },
+      {
+        "platform": "Facebook",
+        "time": "2025-04-23T11:55:43"
+      },
+      {
+        "platform": "YouTube",
+        "time": "2025-04-01T19:03:11"
+      }
+    ],
+    "content_type": "ai_generated"
+  },
+  {
+    "id": 37,
+    "title": "Disinformation about fuel prices spreads",
+    "source": "KBC",
+    "platform": "Telegram",
+    "date": "2025-02-08",
+    "category": "economic",
+    "fact_checked_by": "Standard Media",
+    "is_ai_generated": true,
+    "detection_score": 92,
+    "spread_path": [
+      {
+        "platform": "TikTok",
+        "time": "2025-05-01T14:59:56"
+      },
+      {
+        "platform": "TikTok",
+        "time": "2025-04-29T13:57:52"
+      },
+      {
+        "platform": "Telegram",
+        "time": "2025-05-03T14:08:19"
+      }
+    ],
+    "content_type": "ai_generated"
+  },
+  {
+    "id": 38,
+    "title": "AI-generated influencer endorses false ad",
+    "source": "BBC",
+    "platform": "YouTube",
+    "date": "2025-04-14",
+    "category": "economic",
+    "fact_checked_by": "Africa Check",
+    "is_ai_generated": true,
+    "detection_score": 73,
+    "spread_path": [
+      {
+        "platform": "Telegram",
+        "time": "2025-04-20T17:04:32"
+      },
+      {
+        "platform": "Facebook",
+        "time": "2025-04-08T14:37:13"
+      },
+      {
+        "platform": "WhatsApp",
+        "time": "2025-05-08T13:57:28"
+      },
+      {
+        "platform": "Facebook",
+        "time": "2025-04-29T17:41:19"
+      }
+    ],
+    "content_type": "ai_generated"
+  },
+  {
+    "id": 39,
+    "title": "Clickbait on Ruto\u2019s speech misleads citizens",
+    "source": "The Star",
+    "platform": "Facebook",
+    "date": "2025-03-07",
+    "category": "political",
+    "fact_checked_by": "Standard Media",
+    "is_ai_generated": true,
+    "detection_score": 60,
+    "spread_path": [
+      {
+        "platform": "WhatsApp",
+        "time": "2025-04-02T16:39:38"
+      },
+      {
+        "platform": "TikTok",
+        "time": "2025-03-31T08:54:48"
+      }
+    ],
+    "content_type": "ai_generated"
+  },
+  {
+    "id": 40,
+    "title": "Fake news spreads about Kenyan elections",
+    "source": "Citizen",
+    "platform": "YouTube",
+    "date": "2025-04-27",
+    "category": "education",
+    "fact_checked_by": "Africa Check",
+    "is_ai_generated": true,
+    "detection_score": 81,
+    "spread_path": [
+      {
+        "platform": "WhatsApp",
+        "time": "2025-04-02T19:05:47"
+      },
+      {
+        "platform": "TikTok",
+        "time": "2025-02-25T16:04:15"
+      }
+    ],
+    "content_type": "ai_generated"
+  },
+  {
+    "id": 41,
+    "title": "AI-generated video of protest goes viral",
+    "source": "BBC",
+    "platform": "WhatsApp",
+    "date": "2025-05-03",
+    "category": "education",
+    "fact_checked_by": "PesaCheck",
+    "is_ai_generated": true,
+    "detection_score": 88,
+    "spread_path": [
+      {
+        "platform": "Twitter",
+        "time": "2025-04-17T00:27:48"
+      },
+      {
+        "platform": "Facebook",
+        "time": "2025-04-15T10:25:40"
+      },
+      {
+        "platform": "TikTok",
+        "time": "2025-03-26T02:30:49"
+      }
+    ],
+    "content_type": "manipulated"
+  },
+  {
+    "id": 42,
+    "title": "Disinformation about fuel prices spreads",
+    "source": "Nation",
+    "platform": "YouTube",
+    "date": "2025-05-08",
+    "category": "political",
+    "fact_checked_by": "Standard Media",
+    "is_ai_generated": true,
+    "detection_score": 80,
+    "spread_path": [
+      {
+        "platform": "WhatsApp",
+        "time": "2025-05-02T01:44:38"
+      },
+      {
+        "platform": "Twitter",
+        "time": "2025-03-08T16:19:06"
+      },
+      {
+        "platform": "Twitter",
+        "time": "2025-03-04T18:26:43"
+      },
+      {
+        "platform": "Facebook",
+        "time": "2025-04-10T15:23:03"
+      }
+    ],
+    "content_type": "manipulated"
+  },
+  {
+    "id": 43,
+    "title": "Fake article claims foreign interference",
+    "source": "The Star",
+    "platform": "Telegram",
+    "date": "2025-01-22",
+    "category": "health",
+    "fact_checked_by": "Africa Check",
+    "is_ai_generated": true,
+    "detection_score": 80,
+    "spread_path": [
+      {
+        "platform": "Twitter",
+        "time": "2025-02-09T11:52:22"
+      },
+      {
+        "platform": "Telegram",
+        "time": "2025-02-25T21:48:23"
+      },
+      {
+        "platform": "TikTok",
+        "time": "2025-03-29T05:40:25"
+      },
+      {
+        "platform": "YouTube",
+        "time": "2025-03-27T04:35:28"
+      }
+    ],
+    "content_type": "manipulated"
+  },
+  {
+    "id": 44,
+    "title": "Scam alert spreads with fake CBK logo",
+    "source": "The Star",
+    "platform": "WhatsApp",
+    "date": "2025-01-12",
+    "category": "education",
+    "fact_checked_by": "Africa Check",
+    "is_ai_generated": true,
+    "detection_score": 80,
+    "spread_path": [
+      {
+        "platform": "Telegram",
+        "time": "2025-04-16T19:04:22"
+      },
+      {
+        "platform": "WhatsApp",
+        "time": "2025-04-21T22:53:50"
+      },
+      {
+        "platform": "Twitter",
+        "time": "2025-04-11T11:35:34"
+      },
+      {
+        "platform": "WhatsApp",
+        "time": "2025-04-09T08:57:58"
+      }
+    ],
+    "content_type": "manipulated"
+  },
+  {
+    "id": 45,
+    "title": "Clickbait on Ruto\u2019s speech misleads citizens",
+    "source": "The Star",
+    "platform": "Twitter",
+    "date": "2025-03-27",
+    "category": "education",
+    "fact_checked_by": "Africa Check",
+    "is_ai_generated": true,
+    "detection_score": 89,
+    "spread_path": [
+      {
+        "platform": "WhatsApp",
+        "time": "2025-04-14T13:36:08"
+      },
+      {
+        "platform": "Facebook",
+        "time": "2025-02-28T17:51:55"
+      }
+    ],
+    "content_type": "manipulated"
+  },
+  {
+    "id": 46,
+    "title": "Clickbait on Ruto\u2019s speech misleads citizens",
+    "source": "The Star",
+    "platform": "TikTok",
+    "date": "2025-05-05",
+    "category": "political",
+    "fact_checked_by": "Africa Check",
+    "is_ai_generated": true,
+    "detection_score": 87,
+    "spread_path": [
+      {
+        "platform": "YouTube",
+        "time": "2025-04-23T11:23:26"
+      },
+      {
+        "platform": "Telegram",
+        "time": "2025-04-20T18:08:11"
+      },
+      {
+        "platform": "Twitter",
+        "time": "2025-05-03T09:41:42"
+      },
+      {
+        "platform": "TikTok",
+        "time": "2025-04-22T18:36:51"
+      }
+    ],
+    "content_type": "manipulated"
+  },
+  {
+    "id": 47,
+    "title": "False info about school closures shared",
+    "source": "The Star",
+    "platform": "YouTube",
+    "date": "2025-01-03",
+    "category": "education",
+    "fact_checked_by": "Standard Media",
+    "is_ai_generated": true,
+    "detection_score": 62,
+    "spread_path": [
+      {
+        "platform": "Telegram",
+        "time": "2025-04-07T03:21:33"
+      },
+      {
+        "platform": "Telegram",
+        "time": "2025-05-09T04:54:25"
+      },
+      {
+        "platform": "Telegram",
+        "time": "2025-01-13T11:23:21"
+      }
+    ],
+    "content_type": "manipulated"
+  },
+  {
+    "id": 48,
+    "title": "Fake news spreads about Kenyan elections",
+    "source": "KBC",
+    "platform": "YouTube",
+    "date": "2025-01-05",
+    "category": "security",
+    "fact_checked_by": "Standard Media",
+    "is_ai_generated": true,
+    "detection_score": 76,
+    "spread_path": [
+      {
+        "platform": "Twitter",
+        "time": "2025-05-07T20:49:37"
+      },
+      {
+        "platform": "Facebook",
+        "time": "2025-05-08T04:30:30"
+      },
+      {
+        "platform": "Telegram",
+        "time": "2025-05-09T04:13:12"
+      }
+    ],
+    "content_type": "manipulated"
+  },
+  {
+    "id": 49,
+    "title": "Voice clone used to mimic government warning",
+    "source": "Nation",
+    "platform": "Twitter",
+    "date": "2025-05-01",
+    "category": "health",
+    "fact_checked_by": "Standard Media",
+    "is_ai_generated": true,
+    "detection_score": 80,
+    "spread_path": [
+      {
+        "platform": "Twitter",
+        "time": "2025-04-20T04:34:14"
+      },
+      {
+        "platform": "Twitter",
+        "time": "2025-04-25T21:25:56"
+      },
+      {
+        "platform": "Telegram",
+        "time": "2025-04-21T07:58:50"
+      },
+      {
+        "platform": "WhatsApp",
+        "time": "2025-05-02T10:38:34"
+      }
+    ],
+    "content_type": "manipulated"
+  },
+  {
+    "id": 50,
+    "title": "AI-generated influencer endorses false ad",
+    "source": "Citizen",
+    "platform": "Telegram",
+    "date": "2025-03-03",
+    "category": "education",
+    "fact_checked_by": "PesaCheck",
+    "is_ai_generated": true,
+    "detection_score": 90,
+    "spread_path": [
+      {
+        "platform": "TikTok",
+        "time": "2025-03-28T13:39:45"
+      },
+      {
+        "platform": "Telegram",
+        "time": "2025-04-08T00:54:57"
+      }
+    ],
+    "content_type": "manipulated"
+  }
+]

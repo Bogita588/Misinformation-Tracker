@@ -1,0 +1,32 @@
+/* src/styles/variables.css */
+
+/* :root {
+  --bg-color: #ffffff;
+  --text-color: #1a1a1a;
+  --card-color: #f2f2f2;
+}
+
+[data-theme='dark'] {
+  --bg-color: #1a1a1a;
+  --text-color: #ffffff;
+  --card-color: #2a2a2a;
+} */
+
+
+:root {
+  --bg-color: #ffffff;
+  --text-color: #222222;
+  --card-bg: #f9f9f9;
+  --card-shadow: rgba(0, 0, 0, 0.1);
+  --link-color: #0077cc;
+  --link-hover: #005fa3;
+}
+
+[data-theme="dark"] {
+  --bg-color: #121212;
+  --text-color: white;  /* Light text for dark mode */
+  --card-bg: #1e1e1e;
+  --card-shadow: rgba(255, 255, 255, 0.1);
+  --link-color: #66aaff;
+  --link-hover: #99cfff;
+}
